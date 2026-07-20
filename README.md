@@ -1,5 +1,6 @@
 ### Hi, I'm Izzah!
 
+![banner](github.png)
 
 I hold an education background in economics and data science. I'm an 
 agri-commodities analyst turned data-driven explorer, currently interested in 
